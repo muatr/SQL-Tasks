@@ -1,5 +1,5 @@
 ## SQL-Tasks
-Task 1: [WHERE](https://github.com/muatr/SQL-Tasks/blob/main/Task1.md)
+#### Task 1: [WHERE](https://github.com/muatr/SQL-Tasks/blob/main/Task1.md)
 
 #### Task 2: [BETWEEN and IN](https://github.com/muatr/SQL-Tasks/blob/main/Task2.md)
 
