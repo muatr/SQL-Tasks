@@ -10,3 +10,5 @@
 #### Task 5: [ORDER BY, LIMIT and OFFSET](https://github.com/muatr/SQL-Tasks/blob/main/Task5.md)
 
 #### Task 6: [Aggregate Functions](https://github.com/muatr/SQL-Tasks/blob/main/Task6.md)
+
+#### Task 7: [GROUP BY, HAVING](https://github.com/muatr/SQL-Tasks/blob/main/Task7.md)
