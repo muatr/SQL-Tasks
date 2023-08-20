@@ -12,3 +12,5 @@
 #### Task 6: [Aggregate Functions](https://github.com/muatr/SQL-Tasks/blob/main/Task6.md)
 
 #### Task 7: [GROUP BY, HAVING](https://github.com/muatr/SQL-Tasks/blob/main/Task7.md)
+
+#### Task 8: [CREATE, DROP, UPDATE, DELETE](https://github.com/muatr/SQL-Tasks/blob/main/Task8.md)
