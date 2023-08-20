@@ -68,8 +68,8 @@ insert into employee (id, name, birthday, email) values (50, 'Imelda', '2021-07-
 ```sql
 UPDATE employee
 SET name = 'Murat',
-	birthday = '2003-03-14',
-	email = 'mtulunisan@gmail.com'
+    birthday = '2003-03-14',
+    email = 'mtulunisan@gmail.com'
 WHERE id = 14
 RETURNING *;
 ```
@@ -77,21 +77,21 @@ RETURNING *;
 ```sql
 UPDATE employee
 SET birthday = '2023-08-20',
-	email = 'today@date.com'
+    email = 'today@date.com'
 WHERE name LIKE 'D%';
 ```
 
 ```sql
 UPDATE employee
 SET name = 'Today',
-	email = 'updated@table.com'
+    email = 'updated@table.com'
 WHERE birthday = '2023-08-20';
 ```
 
 ```sql
 UPDATE employee
 SET name = 'Hi',
-	birthday = '2002-02-02'
+    birthday = '2002-02-02'
 WHERE email ~~* 'a%';
 ```
 
