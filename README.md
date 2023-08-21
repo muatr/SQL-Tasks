@@ -16,3 +16,5 @@
 #### Task 8: [CREATE, DROP, UPDATE, DELETE](https://github.com/muatr/SQL-Tasks/blob/main/Task8.md)
 
 #### Task 9: [INNER JOIN](https://github.com/muatr/SQL-Tasks/blob/main/Task9.md)
+
+#### Task 10: [LEFT, RIGHT AND FULL JOIN](https://github.com/muatr/SQL-Tasks/blob/main/Task10.md)
