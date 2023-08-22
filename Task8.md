@@ -127,3 +127,4 @@ WHERE email ILIKE '%unicef%';
 DELETE FROM employee
 WHERE name !~~* 'Mur%' OR email NOT ILIKE '%mai%';
 ```
+ 
