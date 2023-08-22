@@ -20,3 +20,5 @@
 #### Task 10: [LEFT, RIGHT AND FULL JOIN](https://github.com/muatr/SQL-Tasks/blob/main/Task10.md)
 
 #### Task 11: [UNION, INTERSECT, EXCEPT](https://github.com/muatr/SQL-Tasks/blob/main/Task11.md)
+
+#### Task 12: [Query Scenarios and Subqueries](https://github.com/muatr/SQL-Tasks/blob/main/Task12.md)
